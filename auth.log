@@ -1,0 +1,12 @@
+Jul 17 22:04:25
+Jul 17 22:04:25 test.com dnsprobe[276]: dns query failed
+Jul 17 22:04:36 test.com sshd[7758]: Did not receive identification string from 190.97.xx.199
+Jul 17 22:04:46 test.com sshd[7758]: Did not receive identification string from 190.97.xx.199
+Jul 17 22:04:59 test.com dnsprobe[276]: Primary DNS server Is Down... Switching To Secondary DNS server
+Jul 17 22:05:08 test.com dnsprobe[276]: Switching Back To Primary DNS server
+Jul 10 22:05:24 test.com sshd[7758]: Failed password for testuser from remote.com port 54612 ssh2
+Jul 12 22:05:24 test.com sshd[7758]: Failed password for testuser from remote.com port 54612 ssh2
+Jul 17 01:05:24 test.com sshd[7758]: Failed password for testuser from remote.com port 54612 ssh2
+Jul 17 22:05:24 test.com sshd[7758]: Failed password for testuser from remote.com port 54612 ssh2
+Jul 17 22:06:24 test.com sshd[7758]: Failed password for testuser from remote.com port 54612 ssh2
+Jul 18 01:05:24 test.com sshd[7758]: Failed password for testuser from remote.corp.google.com port 54612 ssh2
